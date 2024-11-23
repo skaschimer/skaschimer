@@ -2,8 +2,6 @@
 
 [<img src='https://github.com/skaschimer/skaschimer/blob/main/media/Linkedin-Logo.png' alt='linkedin' height='60'>](https://www.linkedin.com/in/skaschimer/) 
 
-https://github.com/skaschimer/skaschimer/blob/main/media/Linkedin-Logo.png
-
 ## Senior Consultant, Software and Cloud Engineer, Content Creator and Innovation Enthusiast.
 
 - 🔭 I’m currently working on Database Migration using Azure DevOps
