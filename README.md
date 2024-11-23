@@ -1,6 +1,6 @@
 ## The guy on the left is me, Steve Kaschimer. 😄 <div align = 'right'>![](https://komarev.com/ghpvc/?username=skaschimer&color=red)</div>
 
-[<img src='https://github.com/skaschimer/skaschimer/blob/main/media/Linkedin-Logo.png' alt='linkedin' height='60'>](https://www.linkedin.com/in/skaschimer/){:target="_blank"} 
+<a href='https://www.linkedin.com/in/skaschimer/' target='_blank'><img src='https://github.com/skaschimer/skaschimer/blob/main/media/Linkedin-Logo.png' alt='linkedin' height='60'/></a>
 
 ## Senior Consultant, Software and Cloud Engineer, Content Creator and Innovation Enthusiast.
 
