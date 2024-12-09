@@ -4,14 +4,14 @@
 
 ## Senior Consultant, Software and Cloud Engineer, Content Creator and Innovation Enthusiast.
 
-- 🔭 I’m currently working on Database Migration using Azure DevOps
-- 🌱 I’m currently learning Docker and Kubernetes
+- 🔭 I’m currently working on GitHub DevOps Processes, Workflows and Actions
+- 🌱 I’m currently learning Docker, Kubernetes and React & related Frameworks
 - 👯 I’m looking to collaborate on anything that matches my skills...- 
 - 🤔 I’m looking for help with finding OSS projects to collaborate on. Anyone need help?  
-- 💬 Ask me about .NET Framework/Core, C#, APIs, RESTful Services, SQL Databases, Azure, Azure DevOps
+- 💬 Ask me about .NET Framework/Core, C#, APIs, RESTful Services, SQL Databases, Azure, Azure DevOps, GitHub, GitHub Actions, GitHub Workflows
 - 📫 How to reach me: [Work Email](mailto://steve.kaschimer@slalom.com) --- [Personal Email](mailto://steve@skratsch.com) --- [LinkedIn](https://www.linkedin.com/in/skaschimer/)
 
-#### Skills: .NET / SQL / JS / HTML / CSS / Azure
+#### Skills: .NET / SQL / JS / HTML / CSS / Azure / GitHub
 
 | **SUMARY**                                                                                                                                              | **LANGUAGES**                                                                                                                                         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
